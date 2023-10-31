@@ -1,0 +1,16 @@
+.st-font{
+    font-family: 'Satisfy', cursive;
+}
+html.body{
+    height: 100%;
+}
+.container-fluid{
+    min-height: 100%;
+}
+
+.i-color{
+    color: aqua;
+}
+.ss-color{
+    color: aqua;
+}
